@@ -1,0 +1,13 @@
+5
+5
+5
+Player
+1
+Bombs
+2
+Kek
+1
+Negr
+0
+Portal
+3
